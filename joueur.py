@@ -29,7 +29,6 @@ class Joueur():
 
     def mourir(self):
         #self.rayon = 2
-        exit("GAMEOVER: Vous avez perdu!")
 
 
     def draw(self,screen):
